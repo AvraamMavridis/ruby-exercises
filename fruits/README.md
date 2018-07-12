@@ -17,4 +17,6 @@ You will be given three reels of different images and told at which index the re
 7. Two of the same plus one "Wild" is double the score.
 8. No matching items returns 0.
 
+
+<img src="https://github.com/AvraamMavridis/ruby-exercises/blob/master/fruits/score.png?raw=true" width="270" />
  
