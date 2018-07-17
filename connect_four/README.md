@@ -6,6 +6,8 @@ Take a look at wiki description of Connect Four game:
 
 The grid columns are named from A to G:
 
+<img src="https://github.com/AvraamMavridis/ruby-exercises/blob/master/connect_four/ConnectFourWinner.jpeg?raw=true" />
+
 
 You will receive a list of string that shows the order of the pieces which droped in columns:
 
