@@ -2,7 +2,7 @@
 
 Take a look at wiki description of Connect Four game:
 
-<a href=""> Wiki Connect Four</a>
+<a href="https://en.wikipedia.org/wiki/Connect_Four"> Wiki Connect Four</a>
 
 The grid columns are named from A to G:
 
